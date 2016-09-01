@@ -1,0 +1,18 @@
+/*
+ * custom css
+ */
+
+html,body,h1,h2,h3,ul,li,div{font-family: "Microsoft YaHei";}
+
+.uk-navbar-nav li a{font-family: "Microsoft YaHei";}
+
+#vm {
+    display: none;
+}
+#loading {
+    margin-bottom: 15px;
+}
+#error {
+    display: none;
+    margin-bottom: 15px;
+}
